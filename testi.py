@@ -20,7 +20,7 @@ def jalur_terpendek(graph, awal, tujuan, jalur=[]):
                         jalurpendek = newjalur
         return jalurpendek
 print("Jalur Alternatif Ciwaruga Kabupaten Bandung")
-print ("ciwaruga,sersan bajuri ,pinus raya,gegerkalong,cigugur")
+print ("bohorok,Kualanamu,medan,sarijadi")
 print ("\n")
 awal = raw_input("Masukan Awal : ")
 tujuan = raw_input("Masukan Tujuan : ")
